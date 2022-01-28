@@ -1,0 +1,16 @@
+{
+  "name": "protobuf-tutorial",
+  "version": "1.0.0",
+  "description": "Protobuf Tutorial",
+  "main": "serialize.js",
+  "scripts": {
+    "serialize": "node serialize.js",
+    "deserialize": "node deserialize.js"
+  },
+  "keywords": [],
+  "author": "Chiranjeevi Kodati",
+  "license": "ISC",
+  "dependencies": {
+    "google-protobuf": "^3.19.3"
+  }
+}
